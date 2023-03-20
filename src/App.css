@@ -10,9 +10,18 @@
   color: aliceblue;
 }
 
+.starshipCard {
+  background-color: black;
+  padding: 5px;
+  border-radius: 7px;
+  margin: 1rem;
+}
+
 h3 {
-  background-color: darkblue;
   padding: 1.5rem;
+  border: 1px solid yellow;
+  border-radius: 7px;
+  margin: 5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

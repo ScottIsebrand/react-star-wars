@@ -1,9 +1,14 @@
 function StarshipCard(props) {
   const loaded = () => {
     return (
-      <>
+      <div className="starshipCard">
         <h3>{props.name}</h3>
-      </>
+        <p>
+          Crew: {props.crew}
+          <br></br>
+          Hyperdrive Rating: {props.hyperdrive_rating}
+        </p>
+      </div>
     );
   };
 

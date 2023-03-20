@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       const data = await getAllStarships('');
-      console.log(data);
+      // console.log(data);
       setStarshipsList(data.results);
       // starshipsList = data.results
     };
@@ -24,7 +24,14 @@ function App() {
       <Header />
       <div className="starships-list">
         {starshipsList.map((starship, index) => {
-          return <StarshipCard name={starship.name} key={index} />;
+          return (
+            <StarshipCard
+              name={starship.name}
+              crew={starship.crew}
+              hyperdrive_rating={starship.hyperdrive_rating}
+              key={index}
+            />
+          );
         })}
       </div>
     </div>
