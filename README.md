@@ -20,6 +20,12 @@ This project was assigned as homework ("Week 8 - Day 4 Lab/HW") for my software 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Website
+
+https://scottisebrand.github.io/react-star-wars/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Acknowledgements
 
 ### API:
