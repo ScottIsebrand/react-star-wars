@@ -36,6 +36,10 @@ https://scottisebrand.github.io/react-star-wars/
 
 - [Nelson Michael](https://github.com/nelsonmic). "[Deploying React apps to GitHub Pages](https://blog.logrocket.com/deploying-react-apps-github-pages/)." LogRocket.com blog post, August 15, 2022. Accessed March 18, 2023.
 
+### Design
+
+- R2-D2 icon. [Icons-Icons](https://icon-icons.com/icon/r2d2-star-wars/76952). [CC license](https://creativecommons.org/licenses/by/4.0/).
+
 ### README.md:
 
 **Template**:
